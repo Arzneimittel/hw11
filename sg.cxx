@@ -65,6 +65,7 @@ int main(){
   cout << "t = " << t << endl;
   delete[] psi0 ;
   delete[] psi1 ;
+  delete[] h ;
 
 	return 0;
 }
